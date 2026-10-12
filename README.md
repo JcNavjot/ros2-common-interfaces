@@ -61,7 +61,7 @@ This repository contains the `custom_interfaces` ROS 2 package. Clone it into th
 ```bash
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone <repository-url>
+git clone https://github.com/JcNavjot/ros2-common-interfaces.git
 ```
 
 Build the interface package from the workspace root:
